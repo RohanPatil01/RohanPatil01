@@ -22,63 +22,74 @@
   
 - 📫 Reach out to me at **rohanjpatil01@gmail.com**
 
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/rohanpatil01/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/rohanpatil01" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/rohanjpatil63" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img height="28" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/Rohanjpatil6/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="https://www.kaggle.com/rohanpatil63" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img height="28" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  &nbsp;
   <a href="https://medium.com/@rohanjpatil63" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img height="28" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  &nbsp;
   <a href="mailto:rohanjpatil01@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/rohanjpatil6" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-### 🔭 **Technology Stack**
 
-#### **Programming Languages**:
+<h3 align="center">🔭 Technology Stack</h3>
 
-<img height=50 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg?raw=true">
 
-#### **Frameworks, Platforms, and Libraries**:
+<div align="center">
+    <img height="28" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-SciKitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+</div>
 
-<img height=50 src="https://img.shields.io/badge/numpy-%25013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=50 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;<img height=50 src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg?raw=true" />&nbsp;&nbsp;<img height=50 src="https://img.shields.io/badge/streamlit-%235F4687.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+<div align="center">
+    <img height="28" src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-BeautifulSoup-141414?style=flat&logo=beautifulsoup&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+</div>
 
-#### **Databases**:
 
-<img height=50 src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg?raw=true">&nbsp;&nbsp;<img height=50 src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sql&logoColor=white">
-
-#### **Data Visualization**:
-
-<img height=50 src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">&nbsp;&nbsp;<img height=50 src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-
-#### **Web Scraping**:
-
-<img height=50 src="https://img.shields.io/badge/BeautifulSoup-141414?style=for-the-badge&logo=beautifulsoup&logoColor=white">
-
-#### **Hosting**:
-
-<img height=50 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg?raw=true">&nbsp;&nbsp;<img height=50 src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg?raw=true">
-
-#### **Version Control**:
-
-<img height=50 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true">
 
 <h3 align="left">🔥   My Stats :</h3>
 
