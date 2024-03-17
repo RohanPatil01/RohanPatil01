@@ -22,40 +22,41 @@
   
 - 📫 Reach out to me at **rohanjpatil01@gmail.com**
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/rohanpatil01/" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/rohanpatil01" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/rohanjpatil63" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img height="28" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/Rohanjpatil6/" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/rohanpatil63" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img height="28" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   &nbsp;
   <a href="https://medium.com/@rohanjpatil63" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img height="28" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
   </a>
   &nbsp;
   <a href="mailto:rohanjpatil01@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/rohanjpatil6" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
 
 
 <h3 align="center">🔭 Technology Stack</h3>
