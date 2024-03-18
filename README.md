@@ -51,10 +51,6 @@
   <a href="mailto:rohanjpatil01@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/rohanjpatil6" target="_blank" rel="noopener noreferrer">
-    <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 
@@ -65,27 +61,28 @@
 <div align="center">
     <img height="28" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
     &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white">
+     &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+    &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+    &nbsp;
     <img height="28" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
     &nbsp;
     <img height="28" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
-    &nbsp;
-    <img height="28" src="https://img.shields.io/badge/-SciKitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-    &nbsp;
-    <img height="28" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-    &nbsp;
-    <img height="28" src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white">
-    &nbsp;
-    <img height="28" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+    
 </div>
 
 <div align="center">
     <img height="28" src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
     &nbsp;
+    <img height="28" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">    
+    &nbsp;
     <img height="28" src="https://img.shields.io/badge/-BeautifulSoup-141414?style=flat&logo=beautifulsoup&logoColor=white">
     &nbsp;
     <img height="28" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
     &nbsp;
-    <img height="28" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+    <img height="28" src="https://img.shields.io/badge/-SciKitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
     &nbsp;
     <img height="28" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
@@ -93,8 +90,6 @@
 
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanpatil01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
